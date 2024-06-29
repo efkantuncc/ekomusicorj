@@ -84,20 +84,20 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/resim-03-14"
+    "START_IMG_URL", "https://i.hizliresim.com/1abbnsu.jpeg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/resim-03-14")
-PLAYLIST_IMG_URL = "https://telegra.ph/resim-03-14"
-STATS_IMG_URL = "https://telegra.ph/resim-03-14"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/resim-03-14"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/resim-03-14"
-STREAM_IMG_URL = "https://telegra.ph/resim-03-14"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/resim-03-14"
-YOUTUBE_IMG_URL = "https://telegra.ph/resim-03-14"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/resim-03-14"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/resim-03-14"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/resim-03-14"
+    "PING_IMG_URL", "https://i.hizliresim.com/1abbnsu.jpeg")
+PLAYLIST_IMG_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+STATS_IMG_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+TELEGRAM_AUDIO_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+TELEGRAM_VIDEO_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+STREAM_IMG_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+SOUNCLOUD_IMG_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+YOUTUBE_IMG_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+SPOTIFY_ARTIST_IMG_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+SPOTIFY_ALBUM_IMG_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://i.hizliresim.com/1abbnsu.jpeg"
 
 
 def time_to_seconds(time):
