@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/t3rickg/Music",
+    "https://github.com/efkantuncc/ekomusicorj/",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/tekornetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/sohbetgrubu345")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kiyicitayfaa")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SohbetKiyicilar")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
